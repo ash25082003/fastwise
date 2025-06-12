@@ -1,0 +1,160 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments (uv creates .venv)
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+
+# uv specific
+uv.lock
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# IPython
+.ipython/
+
+# Data files (common extensions)
+*.csv
+*.json
+*.xlsx
+*.xls
+*.sqlite
+*.db
+*.h5
+*.hdf5
+*.parquet
+
+# Model files
+*.pkl
+*.pickle
+*.joblib
+*.model
+*.h5
+*.pb
+*.onnx
+
+# Logs
+*.log
+logs/
+log/
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.spyderproject
+.spyproject
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Testing
+.coverage
+.pytest_cache/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+htmlcov/
+
+# Documentation
+docs/_build/
+.readthedocs.yml
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Output directories
+output/
+outputs/
+results/
+figures/
+plots/
+
+# Config files with secrets
+config.ini
+settings.ini
+secrets.yaml
+credentials.json
+
+# Large files or directories you don't want to track
+data/raw/
+data/external/
+models/large/
+checkpoints/
+
+# Cache directories
+.cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
