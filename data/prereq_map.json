@@ -1,0 +1,740 @@
+{
+    "Array Algorithms": [
+        "Array",
+        "Algorithms"
+    ],
+    "Array Allocation": [
+        "Array"
+    ],
+    "Array Indexing": [
+        "Array"
+    ],
+    "Array Manipulation": [
+        "Array",
+        "Array Indexing"
+    ],
+    "Array Partitioning": [
+        "Array",
+        "Array Manipulation"
+    ],
+    "Array Processing": [
+        "Array",
+        "Array Traversal"
+    ],
+    "Array Properties": [
+        "Array"
+    ],
+    "Array Representation": [
+        "Array"
+    ],
+    "Array Traversal": [
+        "Array",
+        "Array Indexing"
+    ],
+    "Subarray": [
+        "Array"
+    ],
+    "Subarray Algorithms": [
+        "Subarray",
+        "Array Algorithms"
+    ],
+    "Subarray/Substring": [
+        "Subarray",
+        "String"
+    ],
+    "Algorithm Analysis": [
+        "Algorithms"
+    ],
+    "Algorithm Comparison": [
+        "Algorithms",
+        "Algorithm Analysis"
+    ],
+    "Algorithm Design": [
+        "Algorithms"
+    ],
+    "Complexity Analysis": [
+        "Algorithms"
+    ],
+    "Time Complexity Analysis": [
+        "Complexity Analysis"
+    ],
+    "Space Complexity": [
+        "Complexity Analysis"
+    ],
+    "Space Optimization": [
+        "Space Complexity"
+    ],
+    "Search Algorithms": [
+        "Algorithms"
+    ],
+    "Search Operations": [
+        "Searching"
+    ],
+    "Search Space": [
+        "Searching"
+    ],
+    "Search Space Optimization": [
+        "Search Space",
+        "Optimization"
+    ],
+    "Binary Search": [
+        "Array",
+        "Search Algorithms"
+    ],
+    "Iterative Search": [
+        "Search Algorithms",
+        "Iteration"
+    ],
+    "Sorting Algorithms": [
+        "Array",
+        "Algorithms"
+    ],
+    "Counting Sort": [
+        "Sorting Algorithms",
+        "Counting"
+    ],
+    "Iterative Sorting": [
+        "Sorting Algorithms",
+        "Iteration"
+    ],
+    "Merging Sorted Structures": [
+        "Sorting Algorithms"
+    ],
+    "Merging Algorithms": [
+        "Algorithms"
+    ],
+    "Data Structures": [],
+    "Data Structure Operations": [
+        "Data Structures"
+    ],
+    "Data Structure Integration": [
+        "Data Structures"
+    ],
+    "Indexed Data Structures": [
+        "Data Structures"
+    ],
+    "Auxiliary Data Structures": [
+        "Data Structures"
+    ],
+    "Stack": [
+        "Data Structures"
+    ],
+    "Stack Operations": [
+        "Stack"
+    ],
+    "Stack Algorithms": [
+        "Stack",
+        "Algorithms"
+    ],
+    "Queue": [
+        "Data Structures"
+    ],
+    "Queue Operations": [
+        "Queue"
+    ],
+    "Priority Queue": [
+        "Queue",
+        "Heap"
+    ],
+    "Deque": [
+        "Queue",
+        "Stack"
+    ],
+    "FIFO/LIFO Properties": [
+        "Queue",
+        "Stack"
+    ],
+    "Monotonic Stack": [
+        "Stack",
+        "Stack Algorithms"
+    ],
+    "Linked List": [
+        "Data Structures"
+    ],
+    "Linked List Manipulation": [
+        "Linked List"
+    ],
+    "Linked List Traversal": [
+        "Linked List",
+        "Traversal"
+    ],
+    "Tree": [
+        "Data Structures"
+    ],
+    "Tree Data Structure": [
+        "Tree"
+    ],
+    "Tree Properties": [
+        "Tree"
+    ],
+    "Tree Operations": [
+        "Tree"
+    ],
+    "Tree Construction": [
+        "Tree"
+    ],
+    "Tree Traversal": [
+        "Tree",
+        "Traversal"
+    ],
+    "Tree Algorithms": [
+        "Tree",
+        "Algorithms"
+    ],
+    "Binary Tree": [
+        "Tree"
+    ],
+    "Binary Tree Representation": [
+        "Binary Tree"
+    ],
+    "Binary Search Tree": [
+        "Binary Tree",
+        "Binary Search"
+    ],
+    "Binary Search Tree Operations": [
+        "Binary Search Tree"
+    ],
+    "Binary Search Tree Properties": [
+        "Binary Search Tree"
+    ],
+    "Preorder Traversal": [
+        "Tree Traversal"
+    ],
+    "Inorder Traversal": [
+        "Tree Traversal"
+    ],
+    "Postorder Traversal": [
+        "Tree Traversal"
+    ],
+    "Level Order Traversal": [
+        "Tree Traversal",
+        "Queue"
+    ],
+    "Morris Traversal": [
+        "Tree Traversal"
+    ],
+    "Heap": [
+        "Tree",
+        "Data Structures"
+    ],
+    "Heap Operations": [
+        "Heap"
+    ],
+    "Heap Properties": [
+        "Heap"
+    ],
+    "Heap Representation": [
+        "Heap"
+    ],
+    "Max-Heap": [
+        "Heap"
+    ],
+    "Min-Heap": [
+        "Heap"
+    ],
+    "Graph": [
+        "Data Structures"
+    ],
+    "Graph Theory": [
+        "Graph"
+    ],
+    "Graph Properties": [
+        "Graph"
+    ],
+    "Graph Representation": [
+        "Graph"
+    ],
+    "Graph Components": [
+        "Graph"
+    ],
+    "Graph Algorithms": [
+        "Graph",
+        "Algorithms"
+    ],
+    "Graph Traversal": [
+        "Graph",
+        "Traversal"
+    ],
+    "BFS": [
+        "Graph Traversal",
+        "Queue"
+    ],
+    "DFS": [
+        "Graph Traversal",
+        "Stack"
+    ],
+    "Hash Table": [
+        "Data Structures"
+    ],
+    "Hash Map": [
+        "Hash Table"
+    ],
+    "Hash Map Operations": [
+        "Hash Map"
+    ],
+    "Hash Set": [
+        "Hash Table"
+    ],
+    "Hashing": [
+        "Hash Table"
+    ],
+    "Collision Handling": [
+        "Hashing"
+    ],
+    "String": [
+        "Data Structures"
+    ],
+    "String Operations": [
+        "String"
+    ],
+    "String Manipulation": [
+        "String"
+    ],
+    "String Processing": [
+        "String"
+    ],
+    "String Properties": [
+        "String"
+    ],
+    "String Traversal": [
+        "String",
+        "Traversal"
+    ],
+    "String Algorithms": [
+        "String",
+        "Algorithms"
+    ],
+    "String Generation": [
+        "String"
+    ],
+    "String Matching": [
+        "String"
+    ],
+    "String Searching": [
+        "String",
+        "Pattern Matching"
+    ],
+    "Pattern Matching": [
+        "String"
+    ],
+    "Pattern Recognition": [
+        "Pattern Matching"
+    ],
+    "Pattern Searching": [
+        "Pattern Matching"
+    ],
+    "KMP Algorithm": [
+        "String Algorithms",
+        "Pattern Matching"
+    ],
+    "Boyer-Moore Voting Algorithm": [
+        "Algorithms"
+    ],
+    "Moore's Voting Algorithm": [
+        "Algorithms"
+    ],
+    "Matrix": [
+        "Array"
+    ],
+    "Matrix Operations": [
+        "Matrix"
+    ],
+    "Matrix Manipulation": [
+        "Matrix"
+    ],
+    "Matrix Properties": [
+        "Matrix"
+    ],
+    "Matrix Representation": [
+        "Matrix"
+    ],
+    "Matrix Indexing": [
+        "Matrix",
+        "Array Indexing"
+    ],
+    "Matrix Search": [
+        "Matrix",
+        "Search Algorithms"
+    ],
+    "Matrix Traversal": [
+        "Matrix",
+        "Traversal"
+    ],
+    "Trie": [
+        "Tree",
+        "String"
+    ],
+    "Union-Find": [
+        "Data Structures"
+    ],
+    "Recursion": [
+        "Algorithms"
+    ],
+    "Recursion Base Case": [
+        "Recursion"
+    ],
+    "Recursion With Memoization": [
+        "Recursion",
+        "Memoization"
+    ],
+    "Iteration": [
+        "Algorithms"
+    ],
+    "Iterative Algorithms": [
+        "Iteration",
+        "Algorithms"
+    ],
+    "Iterative Optimization": [
+        "Iterative Algorithms",
+        "Optimization"
+    ],
+    "Iterative vs Recursive": [
+        "Iteration",
+        "Recursion"
+    ],
+    "Dynamic Programming": [
+        "Recursion",
+        "Optimization"
+    ],
+    "Dynamic Programming Optimization": [
+        "Dynamic Programming"
+    ],
+    "Memoization": [
+        "Dynamic Programming"
+    ],
+    "Tabulation": [
+        "Dynamic Programming"
+    ],
+    "Divide And Conquer": [
+        "Recursion",
+        "Algorithms"
+    ],
+    "Greedy Algorithm": [
+        "Algorithms"
+    ],
+    "Greedy Algorithm Limitations": [
+        "Greedy Algorithm"
+    ],
+    "Backtracking": [
+        "Recursion",
+        "DFS"
+    ],
+    "Brute Force": [
+        "Algorithms"
+    ],
+    "Brute Force Optimization": [
+        "Brute Force",
+        "Optimization"
+    ],
+    "Two Pointer Technique": [
+        "Array",
+        "Algorithms"
+    ],
+    "Sliding Window": [
+        "Array",
+        "Two Pointer Technique"
+    ],
+    "Sliding Window Optimization": [
+        "Sliding Window",
+        "Optimization"
+    ],
+    "Kadane's Algorithm": [
+        "Array",
+        "Dynamic Programming"
+    ],
+    "Dutch National Flag Algorithm": [
+        "Array",
+        "Sorting Algorithms"
+    ],
+    "Quickselect Algorithm": [
+        "Array",
+        "Divide And Conquer"
+    ],
+    "Brian Kernighan's Algorithm": [
+        "Bit Manipulation"
+    ],
+    "Shortest Path Algorithms": [
+        "Graph Algorithms"
+    ],
+    "Dijkstra's Algorithm": [
+        "Shortest Path Algorithms",
+        "Priority Queue"
+    ],
+    "Bellman-Ford Algorithm": [
+        "Shortest Path Algorithms"
+    ],
+    "Floyd-Warshall Algorithm": [
+        "Shortest Path Algorithms",
+        "Matrix"
+    ],
+    "Minimum Spanning Tree": [
+        "Graph Algorithms"
+    ],
+    "Kruskal's Algorithm": [
+        "Minimum Spanning Tree",
+        "Union-Find"
+    ],
+    "Prim's Algorithm": [
+        "Minimum Spanning Tree",
+        "Priority Queue"
+    ],
+    "Topological Sort": [
+        "Graph Algorithms",
+        "DFS"
+    ],
+    "Kahn's Algorithm": [
+        "Topological Sort",
+        "BFS"
+    ],
+    "Kosaraju's Algorithm": [
+        "Graph Algorithms",
+        "DFS"
+    ],
+    "Tarjan's Algorithm": [
+        "Graph Algorithms",
+        "DFS"
+    ],
+    "Cycle Detection": [
+        "Graph Algorithms"
+    ],
+    "Pathfinding": [
+        "Graph Algorithms"
+    ],
+    "Path Reconstruction": [
+        "Pathfinding"
+    ],
+    "Bit Manipulation": [
+        "Binary Representation"
+    ],
+    "Binary Representation": [
+        "Number Representation"
+    ],
+    "In-Place Algorithms": [
+        "Space Optimization"
+    ],
+    "Prefix Sum": [
+        "Array"
+    ],
+    "Prefix/Suffix Arrays": [
+        "Array",
+        "Preprocessing"
+    ],
+    "Prefix/Suffix Properties": [
+        "Prefix/Suffix Arrays"
+    ],
+    "Prefix/Suffix Tracking": [
+        "Prefix/Suffix Arrays"
+    ],
+    "Range Queries": [
+        "Array",
+        "Query Processing"
+    ],
+    "Preprocessing": [
+        "Algorithms"
+    ],
+    "Mathematical Concepts": [],
+    "Mathematical Operations": [
+        "Mathematical Concepts"
+    ],
+    "Mathematical Functions": [
+        "Mathematical Concepts"
+    ],
+    "Mathematical Proof": [
+        "Mathematical Concepts"
+    ],
+    "Number Theory": [
+        "Mathematical Concepts"
+    ],
+    "Number Theory Algorithms": [
+        "Number Theory",
+        "Algorithms"
+    ],
+    "Combinatorics": [
+        "Mathematical Concepts"
+    ],
+    "Exponentiation": [
+        "Mathematical Operations"
+    ],
+    "Number Representation": [
+        "Mathematical Concepts"
+    ],
+    "Number Properties": [
+        "Number Representation"
+    ],
+    "Number Manipulation": [
+        "Number Representation"
+    ],
+    "Number Conversion": [
+        "Number Representation"
+    ],
+    "Map": [
+        "Data Structures"
+    ],
+    "Set": [
+        "Data Structures"
+    ],
+    "Set Operations": [
+        "Set"
+    ],
+    "Mapping": [
+        "Map"
+    ],
+    "Lookup Tables": [
+        "Map"
+    ],
+    "Cache": [
+        "Data Structures"
+    ],
+    "Cache Replacement Policies": [
+        "Cache"
+    ],
+    "General Programming": [],
+    "Conditional Logic": [
+        "General Programming"
+    ],
+    "Comparison Operations": [
+        "General Programming"
+    ],
+    "Pointer Operations": [
+        "General Programming"
+    ],
+    "Type Conversion": [
+        "General Programming"
+    ],
+    "Input Validation": [
+        "General Programming"
+    ],
+    "Error Handling": [
+        "General Programming"
+    ],
+    "Validation": [
+        "General Programming"
+    ],
+    "Traversal": [
+        "Algorithms"
+    ],
+    "Traversal Optimization": [
+        "Traversal",
+        "Optimization"
+    ],
+    "Grid Traversal": [
+        "Matrix Traversal"
+    ],
+    "Visited Tracking": [
+        "Traversal"
+    ],
+    "Boundary Tracking": [
+        "Traversal"
+    ],
+    "State Management": [
+        "Algorithms"
+    ],
+    "State Space Definition": [
+        "State Management"
+    ],
+    "Expression Evaluation": [
+        "String Processing"
+    ],
+    "Expression Parsing": [
+        "String Processing"
+    ],
+    "Expression Conversion": [
+        "String Processing"
+    ],
+    "Expression Notation": [
+        "Expression Parsing"
+    ],
+    "Frequency Counting": [
+        "Counting",
+        "Hash Map"
+    ],
+    "Counting": [
+        "Mathematical Operations"
+    ],
+    "Finding Elements": [
+        "Search Operations"
+    ],
+    "Duplicate Handling": [
+        "Hash Set"
+    ],
+    "Character Manipulation": [
+        "String Manipulation"
+    ],
+    "Distance Metric": [
+        "Mathematical Functions"
+    ],
+    "Intervals": [
+        "Mathematical Concepts"
+    ],
+    "Scheduling Algorithms": [
+        "Algorithms",
+        "Intervals"
+    ],
+    "Simulation": [
+        "Algorithms"
+    ],
+    "Serialization": [
+        "Data Structures"
+    ],
+    "Encoding": [
+        "String Processing"
+    ],
+    "Time Calculation": [
+        "Mathematical Operations"
+    ],
+    "Tie-Breaking": [
+        "Comparison Operations"
+    ],
+    "Query Processing": [
+        "Data Structures"
+    ],
+    "Data Access": [
+        "Data Structures"
+    ],
+    "Data Storage": [
+        "Data Structures"
+    ],
+    "Tracking Values": [
+        "State Management"
+    ],
+    "Auxiliary Functions": [
+        "General Programming"
+    ],
+    "Auxiliary Space": [
+        "Space Complexity"
+    ],
+    "Node": [
+        "Data Structures"
+    ],
+    "Node Structure": [
+        "Node"
+    ],
+    "Node Properties": [
+        "Node"
+    ],
+    "Node Operations": [
+        "Node"
+    ],
+    "Node Representation": [
+        "Node"
+    ],
+    "Call Stack": [
+        "Stack",
+        "Recursion"
+    ],
+    "Constraints": [
+        "Problem Specific"
+    ],
+    "Edge Cases": [
+        "Problem Specific"
+    ],
+    "Problem Space": [
+        "Problem Specific"
+    ],
+    "Problem Specific": [
+        "Algorithms"
+    ],
+    "Optimization": [
+        "Algorithms"
+    ]
+}
