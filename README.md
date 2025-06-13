@@ -1,4 +1,4 @@
-# Tutr - Personalized Learning Recommendation System
+# FastWise - Personalized Learning Recommendation System
 
 A Neo4j-based personalized learning recommendation system that suggests questions to students based on their progress and mastery of concepts.
 
@@ -29,7 +29,7 @@ src/
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/ash25082003/fastwise.git)
 cd tutr
 ```
 
